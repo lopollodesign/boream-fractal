@@ -1,0 +1,6 @@
+@import 'demo/autoprefixer';
+@import 'demo/cssnano';
+@import 'demo/mqpacker';
+
+//Componentes
+@import "../../components/**/*.scss";

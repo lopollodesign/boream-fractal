@@ -1,0 +1,22 @@
+.block, 
+.block + p,
+[class*="block"],
+.block {
+    font-weight: bold;
+    margin-bottom: 4rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    font-weight: normal;
+    padding: 2rem;
+    width: calc(50rem + (2 * 2rem));
+}
+
+p{
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+
+article{
+    font-size: 1.4rem;
+}

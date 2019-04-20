@@ -1,0 +1,27 @@
+{
+    "title": "Input",
+    "default" : "Text",
+    "context": {
+        "inputType": "text",
+        "inputClass" : "input--text",
+        "inputAttributes" : "placeholder='hello'"
+    },
+	"variants": [
+		{
+            "name": "Checkbox",
+            "context": {                
+                "inputType": "checkbox",
+                "inputClass" : "input--checkbox",
+                "inputAttributes" : "id='id' name='name'"
+            }
+        },
+        {
+            "name": "Radio",
+            "context": {                
+                "inputType": "radio",
+                "inputClass" : "input--radio",
+                "inputAttributes" : "id='id' name='name'"
+            }
+		}
+	]
+}

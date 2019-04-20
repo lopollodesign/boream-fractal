@@ -1,0 +1,21 @@
+{
+    "title": "button",
+    "context": {
+        "buttonText": "Button",
+        "buttonModifier" : "default"
+    },
+	"variants": [
+		{
+            "name": "warning",
+            "context": {
+                "buttonModifier" : "warning"
+            }
+		},
+		{
+            "name": "success",
+            "context": {
+                "buttonModifier" : "success"
+            }
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "title": "search",
+    "status": "wip",
+    "notes": "Aquí he puesto una nota sobre este componente.",
+    "context": {
+    "buttonText": "Button",
+    "modifier" : "default"
+    }
+}

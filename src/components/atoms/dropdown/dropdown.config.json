@@ -1,0 +1,12 @@
+{
+    "title": "Dropdown",
+    "context": {
+        "buttonModifier": "button--warning",
+        "buttonText": "Dropdown",
+        "dropdownItems": [
+            { "dropdownItemText": "Primer enlace" },
+            { "dropdownItemText": "Segundo enlace" },
+            { "dropdownItemText": "Tercero enlace" }
+        ]
+    }
+}
