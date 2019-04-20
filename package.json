@@ -5,7 +5,7 @@
   "dependencies": {},
   "devDependencies": {
     "@frctl/fractal": "^1.1.7",
-    "autoprefixer": "^9.5.0",
+    "autoprefixer": "^9.5.1",
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "gulp": "^4.0.0",
@@ -21,5 +21,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopollodesign/boream-fractal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lopollodesign/boream-fractal/issues"
+  },
+  "homepage": "https://github.com/lopollodesign/boream-fractal#readme",
   "description": ""
 }
